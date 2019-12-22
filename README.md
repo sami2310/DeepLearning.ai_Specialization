@@ -5,7 +5,7 @@
 
  - [x] Week 1 : Python basics
  - [x] Week 2 : Logistic Regression with a Neural Network mindset
- - [ ] Week 3 : Planar data classification with a hidden layer
+ - [x] Week 3 : Planar data classification with a hidden layer
 
 
 ## Course 2 : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
